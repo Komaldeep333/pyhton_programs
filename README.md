@@ -1,2 +1,2 @@
 # pyhton_programs
-include the python programs using different modules and data structures like lists,sets etc.
+Include the python programs using different modules and data structures like lists,sets,tuples and dictionaries etc.
